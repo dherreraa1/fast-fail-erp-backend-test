@@ -52,8 +52,8 @@ AWS_PRESIGNED_EXPIRATION=3600
 
 ```bash
 # 1. Clonar el repositorio
-git clone <repository-url>
-cd fast-fail-test
+git clone https://github.com/dherreraa1/fast-fail-erp-backend-test 
+cd fast-fail-erp-backend-test
 
 # 3. Levantar servicios
 docker-compose up -d
