@@ -96,6 +96,10 @@ fast-fail-test/
 │   ├── serializers.py          
 │   └── urls.py          
 ├── tests/               # Pruebas automatizadas
+│   ├── conftest.py
+│   ├── test_auth.py        
+│   ├── test_documents.py                   
+│   └── test_validation.py
 └── manage.py
 └── requirements.txt
 └── README.md
